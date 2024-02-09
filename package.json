@@ -1,0 +1,31 @@
+{
+  "name": "pdf-poppler-with-password",
+  "version": "0.0.3",
+  "description": "Custome lib from https://www.npmjs.com/package/pdf-poppler author Khishigbaatar N. <kb@2xcoding.com>, need open pdf with password. PDF files into images using Poppler with promises. It achieves 10x faster performance compared to other PDF converters. \nPoppler library attached inside statically, so it has not require installation of poppler.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logicnotfound404/electron-pdf-poppler-with-password"
+  },
+  "keywords": [
+    "pdf",
+    "poppler",
+    "jpeg",
+    "jpg",
+    "png",
+    "tiff",
+    "tif",
+    "parse",
+    "info",
+    "image",
+    "pdf2image",
+    "pdf2img",
+    "electron",
+    "password"
+  ],
+  "author": "logicnotfound",
+  "license": "ISC"
+}
